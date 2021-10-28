@@ -2,7 +2,7 @@
 Aprendendo Java
 */
 
-public class AprendednoArrays {
+public class AprendendoArrays {
     public static void main(String[] args) {
 
         int num = 3;
